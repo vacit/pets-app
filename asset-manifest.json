@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/vacit/pets-app/static/css/main.5e4e9510.chunk.css",
-    "main.js": "/vacit/pets-app/static/js/main.e0c46244.chunk.js",
-    "main.js.map": "/vacit/pets-app/static/js/main.e0c46244.chunk.js.map",
-    "runtime-main.js": "/vacit/pets-app/static/js/runtime-main.2ef0d5d9.js",
-    "runtime-main.js.map": "/vacit/pets-app/static/js/runtime-main.2ef0d5d9.js.map",
-    "static/css/2.47e06e2e.chunk.css": "/vacit/pets-app/static/css/2.47e06e2e.chunk.css",
-    "static/js/2.82f0c706.chunk.js": "/vacit/pets-app/static/js/2.82f0c706.chunk.js",
-    "static/js/2.82f0c706.chunk.js.map": "/vacit/pets-app/static/js/2.82f0c706.chunk.js.map",
-    "index.html": "/vacit/pets-app/index.html",
-    "precache-manifest.72196fb6201595e522cbc9379e39e2ed.js": "/vacit/pets-app/precache-manifest.72196fb6201595e522cbc9379e39e2ed.js",
-    "service-worker.js": "/vacit/pets-app/service-worker.js",
-    "static/css/2.47e06e2e.chunk.css.map": "/vacit/pets-app/static/css/2.47e06e2e.chunk.css.map",
-    "static/css/main.5e4e9510.chunk.css.map": "/vacit/pets-app/static/css/main.5e4e9510.chunk.css.map",
-    "static/js/2.82f0c706.chunk.js.LICENSE.txt": "/vacit/pets-app/static/js/2.82f0c706.chunk.js.LICENSE.txt"
+    "main.css": "/pets-app/static/css/main.5e4e9510.chunk.css",
+    "main.js": "/pets-app/static/js/main.017c0398.chunk.js",
+    "main.js.map": "/pets-app/static/js/main.017c0398.chunk.js.map",
+    "runtime-main.js": "/pets-app/static/js/runtime-main.c8454581.js",
+    "runtime-main.js.map": "/pets-app/static/js/runtime-main.c8454581.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/pets-app/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.82f0c706.chunk.js": "/pets-app/static/js/2.82f0c706.chunk.js",
+    "static/js/2.82f0c706.chunk.js.map": "/pets-app/static/js/2.82f0c706.chunk.js.map",
+    "index.html": "/pets-app/index.html",
+    "precache-manifest.d36e25575f109739169da3578bce9e28.js": "/pets-app/precache-manifest.d36e25575f109739169da3578bce9e28.js",
+    "service-worker.js": "/pets-app/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/pets-app/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.5e4e9510.chunk.css.map": "/pets-app/static/css/main.5e4e9510.chunk.css.map",
+    "static/js/2.82f0c706.chunk.js.LICENSE.txt": "/pets-app/static/js/2.82f0c706.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2ef0d5d9.js",
+    "static/js/runtime-main.c8454581.js",
     "static/css/2.47e06e2e.chunk.css",
     "static/js/2.82f0c706.chunk.js",
     "static/css/main.5e4e9510.chunk.css",
-    "static/js/main.e0c46244.chunk.js"
+    "static/js/main.017c0398.chunk.js"
   ]
 }
