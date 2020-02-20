@@ -6,7 +6,7 @@ function Main(props) {
     return (
         <div>
             <Switch>
-                <Route exact path="/" component={HomePage}/>
+                <Route exact path="/pets-app" component={HomePage}/>
                 <Route exact path="/favoriler" component={FavoritesPage}/>
             </Switch>
         </div>
