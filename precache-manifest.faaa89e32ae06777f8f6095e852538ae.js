@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "073a99131ef65d813783de3280e174bb",
+    "revision": "35e1270fe77948d47a4b7843cad6d5df",
     "url": "/pets-app/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pets-app/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "d16597b7eabbd03a596a",
+    "revision": "dd5fac1ca63a5373f9da",
     "url": "/pets-app/static/css/main.5e4e9510.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pets-app/static/js/2.82f0c706.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d16597b7eabbd03a596a",
-    "url": "/pets-app/static/js/main.e14aa789.chunk.js"
+    "revision": "dd5fac1ca63a5373f9da",
+    "url": "/pets-app/static/js/main.8f89dae7.chunk.js"
   },
   {
     "revision": "fa8f98f9f9f44349ee30",
