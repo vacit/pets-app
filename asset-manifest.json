@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/vacit/static/css/main.5e4e9510.chunk.css",
-    "main.js": "/vacit/static/js/main.05d1ca1b.chunk.js",
-    "main.js.map": "/vacit/static/js/main.05d1ca1b.chunk.js.map",
-    "runtime-main.js": "/vacit/static/js/runtime-main.ab079fe1.js",
-    "runtime-main.js.map": "/vacit/static/js/runtime-main.ab079fe1.js.map",
-    "static/css/2.47e06e2e.chunk.css": "/vacit/static/css/2.47e06e2e.chunk.css",
-    "static/js/2.82f0c706.chunk.js": "/vacit/static/js/2.82f0c706.chunk.js",
-    "static/js/2.82f0c706.chunk.js.map": "/vacit/static/js/2.82f0c706.chunk.js.map",
-    "index.html": "/vacit/index.html",
-    "precache-manifest.207d713be76a30b17b869d56397a1b46.js": "/vacit/precache-manifest.207d713be76a30b17b869d56397a1b46.js",
-    "service-worker.js": "/vacit/service-worker.js",
-    "static/css/2.47e06e2e.chunk.css.map": "/vacit/static/css/2.47e06e2e.chunk.css.map",
-    "static/css/main.5e4e9510.chunk.css.map": "/vacit/static/css/main.5e4e9510.chunk.css.map",
-    "static/js/2.82f0c706.chunk.js.LICENSE.txt": "/vacit/static/js/2.82f0c706.chunk.js.LICENSE.txt"
+    "main.css": "/vacit/pets-app/static/css/main.5e4e9510.chunk.css",
+    "main.js": "/vacit/pets-app/static/js/main.e0c46244.chunk.js",
+    "main.js.map": "/vacit/pets-app/static/js/main.e0c46244.chunk.js.map",
+    "runtime-main.js": "/vacit/pets-app/static/js/runtime-main.2ef0d5d9.js",
+    "runtime-main.js.map": "/vacit/pets-app/static/js/runtime-main.2ef0d5d9.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/vacit/pets-app/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.82f0c706.chunk.js": "/vacit/pets-app/static/js/2.82f0c706.chunk.js",
+    "static/js/2.82f0c706.chunk.js.map": "/vacit/pets-app/static/js/2.82f0c706.chunk.js.map",
+    "index.html": "/vacit/pets-app/index.html",
+    "precache-manifest.72196fb6201595e522cbc9379e39e2ed.js": "/vacit/pets-app/precache-manifest.72196fb6201595e522cbc9379e39e2ed.js",
+    "service-worker.js": "/vacit/pets-app/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/vacit/pets-app/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.5e4e9510.chunk.css.map": "/vacit/pets-app/static/css/main.5e4e9510.chunk.css.map",
+    "static/js/2.82f0c706.chunk.js.LICENSE.txt": "/vacit/pets-app/static/js/2.82f0c706.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ab079fe1.js",
+    "static/js/runtime-main.2ef0d5d9.js",
     "static/css/2.47e06e2e.chunk.css",
     "static/js/2.82f0c706.chunk.js",
     "static/css/main.5e4e9510.chunk.css",
-    "static/js/main.05d1ca1b.chunk.js"
+    "static/js/main.e0c46244.chunk.js"
   ]
 }
